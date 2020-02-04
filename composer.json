@@ -1,0 +1,14 @@
+{
+    "name": "delan/shop",
+    "description": "Dit is mijn folder voor de Webshop contactformulier",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Delano Bottelier",
+            "email": "delanobottelier1@hotmail.com"
+        }
+    ],
+    "require": {"phpmailer/phpmailer": "6.0.2",
+    "ext-mysqli":"^7.2",
+    "ext-json":"^1.6"}
+}
